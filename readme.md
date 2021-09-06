@@ -1,16 +1,9 @@
-# 学生宿舍管理系统
-
-## 基本信息
-
-学生宿舍是同学最为熟悉的领域，假定学校有多栋宿舍楼，每栋楼有多层，每层有多个寝室，每个寝室可住多名学生，学生宿舍管理系统对学校的学生宿舍进行规范管理，其管理的对象如下：
-
-- 宿舍信息：编号、楼层、床位数、单价等。
-- 学生：学号、姓名、性别、年龄、所在院系、年级、电话等。
-- 每个宿舍最多可以住 4 位同学，每个同学只能在一个宿舍，不同宿舍的费用标准可以不同。不同院系、年级的同学可以住同一间宿舍。
-
-系统要能够对宿舍、学生、住宿信息进行登记、调整，并能随时进行各种查询、统计等处理。包括：
-
-- 寝室分配：根据院系、年级分配寝室。
-- 学生管理：实现入住学生信息的登记、维护和查询功能。
-- 信息查询：按公寓楼号、学生姓名等查询住宿信息。
-- 出入登记：对学生进出公寓的情况进行登记、实现基本的出、入监控功能。
+![](/screenshot/login.png)
+![](/screenshot/register.png)
+![](/screenshot/student_manage.png)
+![](</screenshot/student_detail(1).png>)
+![](/screenshot/dormitory_manage.png)
+![](/screenshot/dormitory_detail.png)
+![](/screenshot/dormitory_distribute.png)
+![](</screenshot/settings(1).png>)
+![](/screenshot/checkin.png)
